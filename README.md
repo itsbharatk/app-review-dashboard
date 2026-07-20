@@ -17,17 +17,20 @@ A dashboard that turns raw App Store and Google Play reviews into sentiment anal
 
 ## Screenshots
 
-*(Add a screenshot or two here — the KPI/insight view and one of the charts work well.)*
+<img width="1260" height="598" alt="Screenshot 2026-07-20 at 10 59 08 PM" src="https://github.com/user-attachments/assets/d7b5f369-d08b-4fd0-a188-de36e6348d51" />
 
-`![Dashboard overview](./screenshots/overview.png)`
+<img width="1255" height="544" alt="Screenshot 2026-07-20 at 10 59 31 PM" src="https://github.com/user-attachments/assets/c787100e-c1a2-4696-acb1-dff55e2f9584" />
 
-## Demo video
+<img width="1256" height="646" alt="Screenshot 2026-07-20 at 10 59 48 PM" src="https://github.com/user-attachments/assets/ac7734fd-ae1d-4d09-9741-2e24fa56a3e7" />
 
-*(Add a link to your recorded walkthrough here once it's ready.)*
+<img width="1253" height="265" alt="Screenshot 2026-07-20 at 11 00 23 PM" src="https://github.com/user-attachments/assets/ea81cfe4-cfa6-4caf-8622-c175c99e26a8" />
+
+<img width="1256" height="654" alt="Screenshot 2026-07-20 at 11 00 46 PM" src="https://github.com/user-attachments/assets/814501bc-7ad1-4166-94fd-368861e55e95" />
+
 
 ## Want to try it?
 
-This project isn't publicly distributed right now. If you'd like a live walkthrough or a copy to use yourself, reach out — [add your preferred contact: email / LinkedIn / etc.]
+This project isn't publicly distributed right now. If you'd like a live walkthrough or a copy to use yourself, reach out to me.
 
 ## Built with
 
