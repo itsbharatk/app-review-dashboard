@@ -17,16 +17,15 @@ A dashboard that turns raw App Store and Google Play reviews into sentiment anal
 
 ## Screenshots
 
-<img width="1260" height="598" alt="Screenshot 2026-07-20 at 10 59 08 PM" src="https://github.com/user-attachments/assets/d7b5f369-d08b-4fd0-a188-de36e6348d51" />
+<img width="1246" height="597" alt="Screenshot 2026-07-20 at 11 11 08 PM" src="https://github.com/user-attachments/assets/d4ee1028-b422-4865-a24e-681b84a9611d" />
 
-<img width="1255" height="544" alt="Screenshot 2026-07-20 at 10 59 31 PM" src="https://github.com/user-attachments/assets/c787100e-c1a2-4696-acb1-dff55e2f9584" />
+<img width="1250" height="561" alt="Screenshot 2026-07-20 at 11 11 40 PM" src="https://github.com/user-attachments/assets/5564bbea-ac88-4607-b0f5-7d13060a6740" />
 
-<img width="1256" height="646" alt="Screenshot 2026-07-20 at 10 59 48 PM" src="https://github.com/user-attachments/assets/ac7734fd-ae1d-4d09-9741-2e24fa56a3e7" />
+<img width="1255" height="580" alt="Screenshot 2026-07-20 at 11 11 59 PM" src="https://github.com/user-attachments/assets/fba7b68d-a994-4585-8fde-fb35f2397ee7" />
 
-<img width="1253" height="265" alt="Screenshot 2026-07-20 at 11 00 23 PM" src="https://github.com/user-attachments/assets/ea81cfe4-cfa6-4caf-8622-c175c99e26a8" />
+<img width="1253" height="204" alt="Screenshot 2026-07-20 at 11 12 17 PM" src="https://github.com/user-attachments/assets/18010a0f-766f-45a8-bc6a-4cb84539c924" />
 
-<img width="1256" height="654" alt="Screenshot 2026-07-20 at 11 00 46 PM" src="https://github.com/user-attachments/assets/814501bc-7ad1-4166-94fd-368861e55e95" />
-
+<img width="1247" height="655" alt="Screenshot 2026-07-20 at 11 13 04 PM" src="https://github.com/user-attachments/assets/cd3f7334-7a1e-4fa0-a154-ca1397f63f8a" />
 
 ## Want to try it?
 
